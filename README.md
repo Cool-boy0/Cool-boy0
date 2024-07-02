@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Cool-boy0
 - 👀 I’m interested in programing and gamming
 - 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: see on google map
 - 😄 Pronouns: he
 - ⚡ Fun fact: my friend is boy but we say him girl
