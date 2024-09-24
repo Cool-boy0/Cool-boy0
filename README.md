@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Cool-boy0
+- 👋 Hi, I’m Cool-boy
 - 👀 I’m interested in programing and gamming
 - 🌱 I’m currently learning javascript
 - 📫 How to reach me: see on google map
